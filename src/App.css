@@ -1,0 +1,9 @@
+body{font-family:system-ui,sans-serif;margin:0;background:#f6f7f9;color:#1d2733}
+.wrap{max-width:960px;margin:0 auto;padding:2rem 1rem}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1rem;margin:1.5rem 0}
+.card{background:#fff;border-radius:12px;padding:1rem 1.25rem;box-shadow:0 1px 6px rgba(0,0,0,.08)}
+.stat-label{margin:0;color:#5b6b7a;font-size:.85rem}.stat-value{margin:.25rem 0 0;font-size:1.6rem;font-weight:700}
+table{width:100%;border-collapse:collapse;background:#fff;border-radius:12px;overflow:hidden;margin-top:1rem}
+th,td{padding:.7rem .9rem;text-align:left;border-bottom:1px solid #edf0f3}
+.bar{background:#e8edf1;border-radius:999px;height:10px;min-width:110px}.bar-fill{background:#2f7d5c;height:100%;border-radius:999px}
+select{padding:.4rem;border-radius:8px}
